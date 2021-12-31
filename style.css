@@ -1,0 +1,30 @@
+html {
+  background-color: #9daec0;
+}
+h1 {
+  color: darkslateblue;
+  font-family: fantasy;
+  text-align: center;
+}
+
+p {
+  color: darkslateblue;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+}
+
+a {
+  color: aqua;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#test {
+  color: darkblue;
+  font-weight: bold;
+  font-size: 32px;
+  font-family: "Pushster", sans-serif;
+}
