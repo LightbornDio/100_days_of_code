@@ -19,3 +19,9 @@ a {
   text-decoration: none;
   font-family: "Oswald", sans-serif;
 }
+#test {
+  color: darkblue;
+  font-weight: bold;
+  font-size: 32px;
+  font-family: "Pushster", sans-serif;
+}
