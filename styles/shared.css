@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+  text-align: center;
+  color: darkblue;
+}
+
+h1 {
+  font-family: "Pushster", sans-serif;
+}
+
+p {
+  font-family: "Oswald", sans-serif;
+}
+a:hover {
+  text-decoration: underline;
+}
+a {
+  color: rgb(41, 143, 143);
+  text-decoration: none;
+  font-family: "Oswald", sans-serif;
+}

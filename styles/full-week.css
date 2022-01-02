@@ -1,0 +1,52 @@
+header {
+  margin-bottom: 64px;
+}
+
+h1 {
+  font-size: 48px;
+  color: navy;
+  margin: 12px 0;
+}
+#description {
+  margin-bottom: 36px;
+}
+
+a {
+  padding: none;
+  background-color: peru;
+  color: black;
+  border-radius: 4px;
+  font-size: 24px;
+  border: 1px solid black;
+}
+
+a:hover {
+  background-color: blueviolet;
+  text-decoration: none;
+}
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+li {
+  padding: 16px;
+  background-color: goldenrod;
+  margin: 32px;
+  font-family: "Oswald" sans-serif;
+}
+
+h2 {
+  color: black;
+  font-family: "Franklin Gothic Medium", sans-serif, sans-serif;
+}
+
+main p {
+  margin: 12px;
+}
+
+.highlight-goal {
+  background-color: rgb(175, 70, 70);
+  color: BLACK;
+}
