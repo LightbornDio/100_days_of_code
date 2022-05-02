@@ -52,12 +52,11 @@ footer {
   background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
   padding: 36px 0;
 }
-
-ul {
+/*ul {
   display: flex;
-  justify-content: center;
-  /*padding: 40px;*/
-}
+  justify-content: right;
+  /*padding: 40px;
+}*/
 
 footer li {
   width: 80px;

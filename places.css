@@ -2,21 +2,22 @@ body {
   background: linear-gradient(30deg, rgb(77, 77, 77), rgb(58, 58, 58));
   color: rgb(68, 68, 68);
 }
-
 header {
   position: static;
 }
+
 main ul {
-  width: 800px;
+  width: 1500px;
   margin: 0 auto;
 }
 
 main li {
   display: flex;
   background-color: white;
-  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 1px 1px 4px rgba (0, 0, 0, 0.2);
   border-radius: 6px;
   overflow: hidden;
+  width: 500px;
 }
 main li img {
   width: 300px;
@@ -24,26 +25,6 @@ main li img {
   object-fit: cover;
 }
 
-/* MY SOLUTION 
-
-main li a {
-  color: rgb(22, 214, 221);
-  text-decoration: none;
-  font-weight: bold;
-  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-}
-
-a:hover {
-  background-color: rgb(184, 237, 238);
-}
-
-.actions {
-  text-align: right;
-}
-li {
-  color: rgb(77, 77, 77);
-}*/
 .item-content {
   padding: 24px;
   display: flex;
@@ -60,7 +41,6 @@ li {
   padding: 6px;
   color: rgb(22, 211, 228);
   border-radius: 5px;
-  font-weight: bold;
 }
 
 .actions a:hover {
